@@ -2,34 +2,35 @@
 permalink: /publications/
 title: "Publications"
 ---
+	Articles
 
-2021	Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley: Nature Geoscience, doi:10.1038/s41561-021-00746-9 (in press).
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley: Nature Geoscience, doi:10.1038/s41561-021-00746-9 (in press).
 
-2017	Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538.
+Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538.
 
-2016	Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian to Early Cretaceous rocks of the Strandja Massif (northwestern Turkey): evolution of a long lasting magmatic arc. Canadian Journal of Earth Sciences, (999), pp.1-24.
+Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian to Early Cretaceous rocks of the Strandja Massif (northwestern Turkey): evolution of a long lasting magmatic arc. Canadian Journal of Earth Sciences, (999), pp.1-24.
 
 
 	Abstracts
 
-2020	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited). 2020 AGU Fall Meeting.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited). 2020 AGU Fall Meeting.
 
-2019	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2019). Journey to Subduction Zones: Microcontinents vs Oceanic Plateaus. 2019 AGU Fall Meeting, T41I-0230.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2019). Journey to Subduction Zones: Microcontinents vs Oceanic Plateaus. 2019 AGU Fall Meeting, T41I-0230.
 
-2019	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O. F. (2019). Pre-collisional Extension of Microcontinents. 2019 EGU General Assembly.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O. F. (2019). Pre-collisional Extension of Microcontinents. 2019 EGU General Assembly.
 
-2019	Andersen, J., Santimano, T., Göğüş, O., Pysklywec, R.N., Stoikopoulos, N., Gün, E., (2019). Coupled/decoupled lithospheric drips and their surface expression with insights from analogue modelling. 2019 EGU General Assembly.
+Andersen, J., Santimano, T., Göğüş, O., Pysklywec, R.N., Stoikopoulos, N., Gün, E., (2019). Coupled/decoupled lithospheric drips and their surface expression with insights from analogue modelling. 2019 EGU General Assembly.
 
-2018	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O. F. (2018). Enigmatic Pre-collisional Extensional Tectonics in Microcontinents. 2018 AGU Fall Meeting, T43G-0507.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O. F. (2018). Enigmatic Pre-collisional Extensional Tectonics in Microcontinents. 2018 AGU Fall Meeting, T43G-0507.
 
-2018	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O.F. (2018). Geodynamic Modelling of Accretion of Micro-Continental Blocks. 2018 CGU Joint Meeting.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G., Bodur, O.F. (2018). Geodynamic Modelling of Accretion of Micro-Continental Blocks. 2018 CGU Joint Meeting.
 
-2017	Gün, E., Göğüş, O., Pysklywec, R. N., Topuz, G., Bodur, O. F. (2017). A Numerical Approach to the Accretion of Micro-Continental Blocks and Subsequent Subduction Initiation. 2017 AGU Fall Meeting, T41A-0617.
+Gün, E., Göğüş, O., Pysklywec, R. N., Topuz, G., Bodur, O. F. (2017). A Numerical Approach to the Accretion of Micro-Continental Blocks and Subsequent Subduction Initiation. 2017 AGU Fall Meeting, T41A-0617.
 
-2016	Göğüş, O.H., Pysklywec, R., Şengör., A.M.C., Gün, E., 2016, Drip Tectonics and The Uplift of Central Anatolia, 2016 AGU Fall Meeting.
+Göğüş, O.H., Pysklywec, R., Şengör., A.M.C., Gün, E., 2016, Drip Tectonics and The Uplift of Central Anatolia, 2016 AGU Fall Meeting.
 
-2016	Göğüş, O.H., Ueda, K., Gerya, T., Gün, E., 2016, Geodynamic Models for Various Styles of Melting in the Lithosphere Delamination Process, EGU General Assembly, Vienna.
+Göğüş, O.H., Ueda, K., Gerya, T., Gün, E., 2016, Geodynamic Models for Various Styles of Melting in the Lithosphere Delamination Process, EGU General Assembly, Vienna.
 
-2016	Göğüş, O.H., Memiş, C., Gün, E., Bodur, Ö., Mazlum, Z., 2016, Neotectonic Evolution of Anatolia: Comparison of Geodynamical Models and Observations, Humboldt Kolleg, Istanbul Technical University.
+Göğüş, O.H., Memiş, C., Gün, E., Bodur, Ö., Mazlum, Z., 2016, Neotectonic Evolution of Anatolia: Comparison of Geodynamical Models and Observations, Humboldt Kolleg, Istanbul Technical University.
 
-2012	Natal’in, B., Sunal, G., Zhiqing, Y., Gün, E., 2012, Late Paleozoic Subduction-Accreation Orogeny in the Eastern Part of the Turkish Strandja Massif (Vize-Kıyıköy Region), 65th Geological Congress of Turkey, Ankara, Abstract Book, p. 453.
+Natal’in, B., Sunal, G., Zhiqing, Y., Gün, E., 2012, Late Paleozoic Subduction-Accreation Orogeny in the Eastern Part of the Turkish Strandja Massif (Vize-Kıyıköy Region), 65th Geological Congress of Turkey, Ankara, Abstract Book, p. 453.
