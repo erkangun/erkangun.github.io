@@ -63,7 +63,7 @@ author:
   bio    : "PhD Candidate at the Department of Earth Earth Sciences, University of Toronto"
   links:
     - label: "erkan.gun@mail.utoronto.ca"
-      icon: "fab fa-fw fa-email-square"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:erkan.gun@mail.utoronto.ca"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
