@@ -2,7 +2,6 @@
 permalink: /cv/
 title: "CV"
 ---
-
   Education
 
 September 2017 –	Doctor of Philosophy (PhD) Candidate
@@ -19,7 +18,7 @@ Istanbul Technical University
 
 
   Scholarships and Awards
-  
+
 2020	Irene Gale Rucklidge Explorers Fund,
 Graduate Scholarship, 12 Months,
 
