@@ -4,7 +4,7 @@ title: "Publications"
 ---
 	Articles
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley: Nature Geoscience, "https://dx.doi.org/10.1038/s41561-021-00746-9" (in press).
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley: Nature Geoscience, (https://dx.doi.org/10.1038/s41561-021-00746-9) (in press).
 
 Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538, https://doi.org/10.1038/s41467-017-01611-3.
 
