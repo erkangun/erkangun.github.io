@@ -31,7 +31,7 @@ header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: Erkan Gün"
-  
+
 
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -93,7 +93,7 @@ author:
 footer:
   links:
     - label: "e-mail"
-      #icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-fw fa-envelope-square"
       url: "mailto:erkan.gun@mail.utoronto.ca"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
