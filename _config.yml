@@ -62,9 +62,8 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate - Geodynamics"
-  bio  : "Earth Sciences - University of Toronto"
-  location: "Toronto"
+  bio  : "PhD Candidate in Geodynamics, Earth Sciences - University of Toronto"
+  location: "Toronto, Canada"
   links:
     - label: "erkan.gun@mail.utoronto.ca"
       #icon: "fab fa-fw fa-envelope"
