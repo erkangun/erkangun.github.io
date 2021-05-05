@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Candidate | Department of Earth Sciences | University of Toronto"
+  bio    : "PhD Candidate, Department of Earth Sciences, University of Toronto"
   links:
     - label: "erkan.gun@mail.utoronto.ca"
       #icon: "fab fa-fw fa-envelope"
