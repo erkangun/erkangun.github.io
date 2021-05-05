@@ -25,6 +25,8 @@ minimal_mistakes_skin: dark
 search: true
 
 # Build settings
+breadcrumbs: true  # disabled by default
+
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
