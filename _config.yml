@@ -90,12 +90,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/erkangun"
 
-analytics:
-  provider               : "google-gtag" #"google" #false # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id          : G-7DZDCSKFMM
-    anonymize_ip         : # true, false (default)
-
 
 footer:
   links:
@@ -141,3 +135,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+analytics:
+  provider               : "google-gtag" #"google" #false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : UA-196643763-1
+    anonymize_ip         : false #true, false (default)
