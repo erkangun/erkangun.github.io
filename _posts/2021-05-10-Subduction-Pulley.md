@@ -7,6 +7,6 @@ tags:
   - Publication
 ---
 
-> Our Nature Geosciences paper that discovers a new style of extensional deformation prior collision in subduction zones is online! Follow the link below to access the article.
+> Our research article that discovers a new style of extensional deformation prior collision in subduction zones is published in Nature Geoscience! Follow the link below to access the article.
 
 > <cite><a href="https://dx.doi.org/10.1038/s41561-021-00746-9">Nature Geoscience</a></cite>
