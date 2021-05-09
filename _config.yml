@@ -91,7 +91,7 @@ author:
       url: "https://instagram.com/erkangun"
 
 analytics:
-  provider               : "google" #false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" #"google" #false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : G-7DZDCSKFMM
     anonymize_ip         : # true, false (default)
