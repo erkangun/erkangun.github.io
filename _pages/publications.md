@@ -4,7 +4,9 @@ title: "Publications"
 ---
 	Articles
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley: Nature Geoscience, (https://dx.doi.org/10.1038/s41561-021-00746-9) (in press).
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research, https://doi.org/10.1016/j.gr.2021.09.018.
+
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021a, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience, https://dx.doi.org/10.1038/s41561-021-00746-9.
 
 Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538, https://doi.org/10.1038/s41467-017-01611-3.
 
@@ -13,7 +15,9 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 	Abstracts
 
-Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited). 2020 AGU Fall Meeting.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). The Subduction Pulley. 2021 CGU Annual Meeting.
+
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited Talk). 2020 AGU Fall Meeting.
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2019). Journey to Subduction Zones: Microcontinents vs Oceanic Plateaus. 2019 AGU Fall Meeting, T41I-0230.
 
