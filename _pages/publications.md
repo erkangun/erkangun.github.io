@@ -15,7 +15,7 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 	Abstracts
 
-Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). The Subduction Pulley. 2021 CGU Annual Meeting.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley. 2021 CGU Annual Meeting.
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited Talk). 2020 AGU Fall Meeting.
 
