@@ -4,7 +4,8 @@ title: "Publications"
 ---
 	Articles
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research, https://doi.org/10.1016/j.gr.2021.09.018.
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research,
+> <cite><a href="https://doi.org/10.1016/j.gr.2021.09.018">https://doi.org/10.1016/j.gr.2021.09.018</a></cite>
 
 Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021a, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience, https://dx.doi.org/10.1038/s41561-021-00746-9.
 
@@ -15,7 +16,7 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 	Abstracts
 
-Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley. 2021 CGU Annual Meeting.
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley (Oral Presentation). 2021 CGU Annual Meeting.
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2020). Terrane Geodynamics: From Pre-Collision to Post-Collision (Invited Talk). 2020 AGU Fall Meeting.
 
