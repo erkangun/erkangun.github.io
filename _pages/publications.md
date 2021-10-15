@@ -8,9 +8,9 @@ Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodyn
 
 Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021a, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience,  <a href="https://dx.doi.org/10.1038/s41561-021-00746-9">dx.doi.org/10.1038/s41561-021-00746-9</a>.
 
-Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538, https://doi.org/10.1038/s41467-017-01611-3.
+Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538, <a href="https://doi.org/10.1038/s41467-017-01611-3">doi.org/10.1038/s41467-017-01611-3</a>.
 
-Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian to Early Cretaceous rocks of the Strandja Massif (northwestern Turkey): evolution of a long lasting magmatic arc. Canadian Journal of Earth Sciences, (999), pp.1-24, https://doi.org/10.1139/cjes-2016-0026.
+Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian to Early Cretaceous rocks of the Strandja Massif (northwestern Turkey): evolution of a long lasting magmatic arc. Canadian Journal of Earth Sciences, (999), pp.1-24, <a href="https://doi.org/10.1139/cjes-2016-0026">doi.org/10.1139/cjes-2016-0026</a>.
 
 
 	Abstracts
