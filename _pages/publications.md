@@ -4,7 +4,7 @@ title: "Publications"
 ---
 	Articles
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research,<a href="https://doi.org/10.1016/j.gr.2021.09.018">https://doi.org/10.1016/j.gr.2021.09.018</a>
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research,<a href="doi.org/10.1016/j.gr.2021.09.018">https://doi.org/10.1016/j.gr.2021.09.018</a>
 
 Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021a, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience, https://dx.doi.org/10.1038/s41561-021-00746-9.
 
