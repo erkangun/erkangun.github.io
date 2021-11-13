@@ -13,10 +13,7 @@ Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectoni
 Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian to Early Cretaceous rocks of the Strandja Massif (northwestern Turkey): evolution of a long lasting magmatic arc. Canadian Journal of Earth Sciences, (999), pp.1-24, <a href="https://doi.org/10.1139/cjes-2016-0026">10.1139/cjes-2016-0026</a>.
 
 
-	Presentations
-
-	Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley: The role of Oceanic Slab on the Pre-Collisional Extension of Microcontinents (Oral Presentation). 2021 GAC-MAC
-	Annual Meeting.
+	Abstracts
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley (Oral Presentation). 2021 CGU Annual Meeting.
 
