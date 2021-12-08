@@ -18,7 +18,7 @@ Current - Doctor of Philosophy (PhD) Candidate
       Istanbul Technical University
 
 
-      Awards and Grants
+      Awards
 
 2021 - Mitacs Globalink Research Award - UK Research and Innovation (UKRI)
 
