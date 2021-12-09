@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /teaching/
+title: "Teaching"
 ---
 	Articles
 
