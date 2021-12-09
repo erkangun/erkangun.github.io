@@ -5,7 +5,7 @@ title: "CV"
 
       Education
 
-Current - Doctor of Philosophy (PhD) Candidate
+Current - Doctor of Philosophy (PhD) Candidate,
 			Department of Earth Sciences,
 			University of Toronto
 
