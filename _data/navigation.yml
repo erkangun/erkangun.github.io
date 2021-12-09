@@ -3,6 +3,8 @@ main:
     url: /cv/
   - title: "Publications"
     url: /publications/
+  - title: "Teaching"
+    url: /teaching/
 #    url: /posts/
 #  - title: "Categories"
 #    url: /categories/
