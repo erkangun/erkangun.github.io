@@ -104,10 +104,10 @@ footer:
       url: "https://www.researchgate.net/profile/Erkan-Guen"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/erkangun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/erkangun"
 
 defaults:
   # _posts
