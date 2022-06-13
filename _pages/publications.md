@@ -14,6 +14,7 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 
 	Presentations
+	
 Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.  (2022). Slab-Pull vs. Plate Flexure: Syn-Drift Extension of Oceanic Plateaus. 2022 CMOS/CGU/ESC Congress.
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). A Hidden Deformation Episode: Pre-Collisional Terrane Extension. 2021 AGU Fall Meeting, T45B-0209.
