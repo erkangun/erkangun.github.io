@@ -5,7 +5,7 @@ title: "Curriculum Vitae"
 
       Education
 
-Current - Doctor of Philosophy (PhD) Candidate,
+2022 - Doctor of Philosophy (PhD),
 			Department of Earth Sciences,
 			University of Toronto
 
