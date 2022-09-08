@@ -4,6 +4,8 @@ title: "Teaching"
 ---
 	Courses and Field Trips
 
+2022/23-Fall	Lecturer, Global Tectonics (Graduate/Undergraduate)
+
 2021/22-Fall	Assistant Lecturer, Global Tectonics (Graduate/Undergraduate)
 
 2021/22-Fall	Field Trip Leader, Greenville Orogeny, Muskoka, Ontario (Graduate/Undergraduate)
