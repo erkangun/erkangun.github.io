@@ -1,10 +1,10 @@
 main:
-  - title: "Curriculum Vitae"
-    url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "Curriculum Vitae"
+    url: /cv/
 #    url: /posts/
 #  - title: "Categories"
 #    url: /categories/
