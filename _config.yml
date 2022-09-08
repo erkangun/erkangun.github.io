@@ -71,7 +71,7 @@ author:
   bio  : "Postdoctoral Research Fellow, Lecturer | Physical & Environmental Sciences, Earth Sciences - University of Toronto"
   location: "Toronto, Canada"
   links:
-    - label: "erkan.gun@mail.utoronto.ca"
+    - label: "erkan.gun@utoronto.ca"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:erkan.gun@utoronto.ca"
     - label: "Google Scholar"
