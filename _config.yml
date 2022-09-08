@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio  : "Postdoctoral Research Fellow | Lecturer, Department of Physical & Environmental Sciences, Department of Earth Sciences - University of Toronto"
+  bio  : "Postdoctoral Research Fellow, Lecturer | Physical & Environmental Sciences, Earth Sciences - University of Toronto"
   location: "Toronto, Canada"
   links:
     - label: "erkan.gun@mail.utoronto.ca"
