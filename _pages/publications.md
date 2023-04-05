@@ -14,12 +14,22 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 
 	Presentations
-	
+
+Gün, E., Heron P., Pysklywec, R.N.,Topuz, G., Mallia, N. (2023). Collision Triggered Fast Slab Break-Off and Subsequent Subduction Polarity Reversal. 2023 CGU Annual Meeting.
+
+Gün, E., Pysklywec, R.N., Heron P., Topuz, G., Göğüş, O. (2023). Intra-Plate Deformation of the Pacific: Evidence from Oceanic Plateaux and Geodynamic Models. 2023 EGU General Assembly.
+
+Heron P., Gün, E., Shephard, G., Dannberg, J., Gassmöller, R., Martin, E., Sharif, A., Pysklywec, R. N., Nance, R. D., Murphy, J. B. (2023). The role of subduction in the formation of Pangean oceanic large igneous provinces. 2023 EGU General Assembly.
+
+Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O., Heron P. (2022). Extensional Deformation in the Pacific Oceanic Plateaux. 2022 AGU Fall Meeting.
+
 Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.  (2022). Slab-Pull vs. Plate Flexure: Syn-Drift Extension of Oceanic Plateaus. 2022 CMOS/CGU/ESC Congress.
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). A Hidden Deformation Episode: Pre-Collisional Terrane Extension. 2021 AGU Fall Meeting, T45B-0209.
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., Topuz, G., (2021). Pre-collisional extension of microcontinental terranes by a subduction pulley, (Invited Seminar), Zhejiang University.
+Gün, E., Pysklywec, R.N., Göğüş, O.H., Topuz, G. (2021). Pre-collisional extension of microcontinental terranes by a subduction pulley, (Invited Seminar), Zhejiang University.
+
+Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley: The role of Oceanic Slab on the Pre-Collisional Extension of Microcontinents. 2021 GAC-MAC Meeting. 
 
 Gün, E., Pysklywec, R.N., Göğüş, O., Topuz, G. (2021). The Subduction Pulley (Oral Presentation). 2021 CGU Annual Meeting.
 
