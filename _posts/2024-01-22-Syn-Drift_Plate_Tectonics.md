@@ -12,4 +12,4 @@ tags:
 
 > <cite><a href="https://doi.org/10.1029/2023GL105452">https://doi.org/10.1029/2023GL105452</a></cite>
 
-{% raw %}<img src="{{erkangun.net}}{{https://erkangun.net}}/assets/images/SDPT.png" alt="">{% endraw %}
+{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/images/SDPT.png){% endraw %}
