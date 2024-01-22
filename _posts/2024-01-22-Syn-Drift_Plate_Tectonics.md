@@ -12,4 +12,4 @@ tags:
 
 > <cite><a href="https://doi.org/10.1029/2023GL105452">https://doi.org/10.1029/2023GL105452</a></cite>
 
-{% raw %}![alt]({{ site.url }}{{ site.baseurl }}/assets/images/images/SDPT.png){% endraw %}
+![SDPT]({{ site.url }}{{ site.baseurl }}/assets/images/SDPT.png)
