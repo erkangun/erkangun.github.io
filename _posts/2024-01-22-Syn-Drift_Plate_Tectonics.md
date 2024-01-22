@@ -11,3 +11,5 @@ tags:
 
 
 > <cite><a href="https://doi.org/10.1029/2023GL105452">https://doi.org/10.1029/2023GL105452</a></cite>
+
+{% raw %}<img src="{{ erkangun.net }}{{ erkangun.net }}/assets/images/SDPT.png" alt="">{% endraw %}
