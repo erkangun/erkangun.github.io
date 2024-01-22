@@ -4,6 +4,8 @@ title: "Publications"
 ---
 	Articles
 
+Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.H., & Heron, P.J. (2024). Syn-drift plate tectonics. Geophysical Research Letters, 51, e2023GL105452. <a href="https://doi.org/10.1029/2023GL105452">10.1029/2023GL105452</a>
+
 Heron, P.J., Gün, E., Shephard, G.E., Dannberg, J., Gassmöller, R., Martin, E., Sharif, A., Pysklywec, R.N., Nance, R.D., and Murphy, J.B., 2024, The role of subduction in the formation of Pangean oceanic large igneous provinces: Geological Society, London, Special Publications, v. 542, p. SP542-2023–12, <a href="https://doi.org/10.1144/SP542-2023-12">10.1144/SP542-2023-12</a>.
 
 Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2021.09.018">10.1016/j.gr.2021.09.018</a>.
