@@ -13,7 +13,7 @@ title: "Curriculum Vitae"
 			Earth System Science, Eurasia Institute of Earth Sciences,
 			Istanbul Technical University
 
-2004 - Bachelor of Science (BSc)
+2005 - Bachelor of Science (BSc)
 			Geodesy and Photogrammetry Engineering,
       Istanbul Technical University
 
