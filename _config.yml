@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio  : "Postdoctoral Researcher, MARUM - University of Bremen"
+  bio  : "Postdoctoral Researcher, MARUM | University of Bremen"
   location: "Bremen, Germany"
   links:
     - label: "guen@uni-bremen.de"
