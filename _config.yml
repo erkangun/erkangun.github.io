@@ -73,7 +73,7 @@ author:
   links:
     - label: "guen@uni-bremen.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:erkan.gun@utoronto.ca"
+      url: "mailto:guen@uni-bremen.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=__mbHXMAAAAJ&hl=en"
@@ -95,7 +95,7 @@ footer:
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:erkan.gun@utoronto.ca"
+      url: "mailto:guen@uni-bremen.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=__mbHXMAAAAJ&hl=en"
