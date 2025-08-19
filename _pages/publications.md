@@ -4,6 +4,8 @@ title: "Publications"
 ---
 	Articles
 
+Gün, E., Heron, P.J., & Pysklywec, R.N. (2025). Slab break-off and subduction polarity reversal after collision can be very fast. Geology. <a href="https://doi.org/10.1130/G52507.1">10.1130/G52507.1</a>
+
 Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.H., & Heron, P.J. (2024). Syn-drift plate tectonics. Geophysical Research Letters, 51, e2023GL105452. <a href="https://doi.org/10.1029/2023GL105452">10.1029/2023GL105452</a>
 
 Heron, P.J., Gün, E., Shephard, G.E., Dannberg, J., Gassmöller, R., Martin, E., Sharif, A., Pysklywec, R.N., Nance, R.D., and Murphy, J.B., 2024, The role of subduction in the formation of Pangean oceanic large igneous provinces: Geological Society, London, Special Publications, v. 542, p. SP542-2023–12, <a href="https://doi.org/10.1144/SP542-2023-12">10.1144/SP542-2023-12</a>.
