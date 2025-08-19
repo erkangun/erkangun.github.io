@@ -7,9 +7,11 @@ tags:
   - Publication
 ---
 
-> Oceanic plateaux from the Pacific reveals that oceanic plates may not be as strong as they were thought to be. Check our article that is published in Geophysical Research Letters.
+> Did you know that slab break-off and subduction polarity reversal after collision can be very fast?
+> Our paper provide a synthesis of the available data for 17 ancient and contemporary subduction zones (alongside new numerical models) to propose that slab break-off and polarity reversal can occur on geologically short timescales (<6 million years). The new work highlights the importance of a global perspective to local tectonic events. 
+
 
 > Follow the link below to read or download the article pdf.
-> <cite><a href="[https://doi.org/10.1029/2023GL105452](https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G52507.1/7325941/g52507.pdf)">https://doi.org/10.1029/2023GL105452</a></cite>
+> <cite><a href="[https://doi.org/10.1029/2023GL105452](https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G52507.1/7325941/g52507.pdf)">https://doi.org/10.1130/G52507.1)</a></cite>
 
-![SDPT]({{ site.url }}{{ site.baseurl }}/assets/images/SDPT.png)
+%![SDPT]({{ site.url }}{{ site.baseurl }}/assets/images/SDPT.png)
