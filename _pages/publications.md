@@ -10,9 +10,9 @@ Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.H., & Heron, P.J. (2024). Syn
 
 Heron, P.J., Gün, E., Shephard, G.E., Dannberg, J., Gassmöller, R., Martin, E., Sharif, A., Pysklywec, R.N., Nance, R.D., and Murphy, J.B., 2024, The role of subduction in the formation of Pangean oceanic large igneous provinces: Geological Society, London, Special Publications, v. 542, p. SP542-2023–12, <a href="https://doi.org/10.1144/SP542-2023-12">10.1144/SP542-2023-12</a>.
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021b, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2021.09.018">10.1016/j.gr.2021.09.018</a>.
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2022, Terrane geodynamics: Evolution on the subduction conveyor from pre-collision to post-collision and implications on Tethyan orogeny. Gondwana Research, <a href="https://doi.org/10.1016/j.gr.2021.09.018">10.1016/j.gr.2021.09.018</a>.
 
-Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021a, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience,  <a href="https://dx.doi.org/10.1038/s41561-021-00746-9">10.1038/s41561-021-00746-9</a>.
+Gün, E., Pysklywec, R.N., Göğüş, O.H., and Topuz, G., 2021, Pre-collisional extension of microcontinental terranes by a subduction pulley. Nature Geoscience,  <a href="https://dx.doi.org/10.1038/s41561-021-00746-9">10.1038/s41561-021-00746-9</a>.
 
 Göğüş, O.H., Pysklywec, R.N., Şengör, A.M.C., Gün, E., 2017. Drip tectonics and the enigmatic uplift of the Central Anatolian Plateau. Nature Communications, 8(1), p.1538, <a href="https://doi.org/10.1038/s41467-017-01611-3">10.1038/s41467-017-01611-3</a>.
 
