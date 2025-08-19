@@ -12,7 +12,6 @@ tags:
 
 
 > Follow the link below to read or download the article pdf.
-> <cite><a href="https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G52507.1/7325941/g52507.pdf">https://doi.org/10.1130/G52507.1</a></cite>
-
+> <cite><a href="https://doi.org/10.1130/G52507.1">https://pubs.geoscienceworld.org/gsa/geology/article-pdf/doi/10.1130/G52507.1/7325941/g52507.pdf</a></cite>
 
 ![SBPR]({{ site.url }}{{ site.baseurl }}/assets/images/SBPR.png)
