@@ -23,6 +23,16 @@ Natal’in, B.A., Sunal, G., Gün, E., Wang, B., Zhiqing, Y., 2016. Precambrian 
 
 	Presentations
 
+Gün, E., Pérez-Gussinyé, M., García-Pintado, J., Gudipati, R. R., Mezri, L., Araújo, M. N. (2025) Geophysical, Geological, and Geodynamic Insights into the Northeastern Brazilian Rifted Margin. 2025 EGU General Assembly.
+
+Gün, E., Heron, P.J., Pysklywec, R.N., Topuz, G., Göğüş, O. (2024). On The Timing of Collision Induced Slab Break-Off and Polarity Reversal. 2024 EGU General Assembly.
+
+Yu, A.J., Gün, E., McCaffrey, K.J.W, Heron, P.J. (2024). A recipe for continental fragment formation: big data analysis of rift models. 2024 EGU General Assembly.
+
+Gün, E., Heron, P.J., Pysklywec, R.N., Topuz, G., Göğüş, O. (2024). Slab Break-Off and Polarity Flip Can Be Very Fast. 2023 AGU Fall Meeting.
+
+Göğüş, O., Pysklywec, R.N., Faccenna, C., Uluocak, E.S., Sengor, A.M.C., Sundell, K., Keskin, M., Saylor, J.E., Andersen, J., Gün, E., Çetiner, U., Santimano, T.N., Topuz, G., Bodur, O.F. (2024). Tectonics of Delamination, Slab break-off and Convective Removal: Deformation, Topography and Their Role in Orogeny (invited talk). 2023 AGU Fall Meeting.
+
 Gün, E., Heron P., Pysklywec, R.N.,Topuz, G., Mallia, N. (2023). Collision Triggered Fast Slab Break-Off and Subsequent Subduction Polarity Reversal. 2023 CGU Annual Meeting.
 
 Gün, E., Pysklywec, R.N., Heron P., Topuz, G., Göğüş, O. (2023). Intra-Plate Deformation of the Pacific: Evidence from Oceanic Plateaux and Geodynamic Models. 2023 EGU General Assembly.
