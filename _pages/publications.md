@@ -6,7 +6,7 @@ title: "Publications"
 
 Gün, E., Heron, P.J., & Pysklywec, R.N. (2025). Slab break-off and subduction polarity reversal after collision can be very fast. Geology. <a href="https://doi.org/10.1130/G52507.1">10.1130/G52507.1</a>
 
-Yu, A.J., Gün, E., McCaffrey, K.J.W, Heron, P.J. (2025) (accepted publication in press). A recipe for exotic continental fragment formation: key constraints from numerical rift models. JGR: Solid Earth. 
+Yu, A.J., Gün, E., McCaffrey, K.J.W, & Heron, P.J. (2025). A recipe for exotic continental fragment formation: key constraints from numerical rift models. ournal of Geophysical Research: Solid Earth, 130, e2024JB030041. <a href="https://doi.org/10.1029/2024JB030041">10.1029/2024JB030041</a>
 
 Gün, E., Pysklywec, R.N., Topuz, G., Göğüş, O.H., & Heron, P.J. (2024). Syn-drift plate tectonics. Geophysical Research Letters, 51, e2023GL105452. <a href="https://doi.org/10.1029/2023GL105452">10.1029/2023GL105452</a>
 
