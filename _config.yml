@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Erkan Gün
-email: guen@uni-bremen.de
+email: eguen@marum.de
 description: Erkan Gün #>- # this means to ignore newlines until "baseurl:"
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
@@ -71,9 +71,9 @@ author:
   bio  : "Postdoctoral Researcher, MARUM | University of Bremen"
   location: "Bremen, Germany"
   links:
-    - label: "guen@uni-bremen.de"
+    - label: "eguen@marum.de"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:guen@uni-bremen.de"
+      url: "mailto:eguen@marum.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=__mbHXMAAAAJ&hl=en"
@@ -95,7 +95,7 @@ footer:
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:guen@uni-bremen.de"
+      url: "mailto:eguen@marum.de"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
       url: "https://scholar.google.ca/citations?user=__mbHXMAAAAJ&hl=en"
