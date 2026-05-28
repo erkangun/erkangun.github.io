@@ -9,7 +9,7 @@ title: "Curriculum Vitae"
 			MARUM,
 			University of Bremen
 
-2022-2024 | Postdoctoral Researcher,
+2022 | Postdoctoral Researcher,
 			Department of Physical and Environmental Sciences,
 			University of Toronto
    
