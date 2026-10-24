@@ -68,8 +68,8 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio  : "Geoscientist"
-  #location: "Bremen, Germany"
+  bio  : "Assistant Professor at Eurasia Istitute of Earth Sciences, Istanbul Technical University"
+  location: "Istanbul, Türkiye"
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
