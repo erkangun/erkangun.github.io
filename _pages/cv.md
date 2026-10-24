@@ -4,6 +4,10 @@ title: "Curriculum Vitae"
 ---
 
       Academic Positions
+	  
+2026 | Assistant Professor,
+			Eurasia Institute of Earth Sciences,
+			Istanbul Technical University | TÜBİTAK 2232-A International Fellow for Outstanding Researchers
 
 2024 | Postdoctoral Researcher,
 			MARUM,
