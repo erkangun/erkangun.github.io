@@ -37,6 +37,8 @@ title: "Curriculum Vitae"
 
 
       Awards
+	  
+2026 | TÜBİTAK 2232-A International Fellowship for Outstanding Researchers, The Scientific and Technological Research Council of Türkiye (TÜBİTAK)
 
 2021 | Mitacs Globalink Research Award - UK Research and Innovation (UKRI)
 
