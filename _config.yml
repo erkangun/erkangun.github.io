@@ -68,8 +68,8 @@ plugins:
 author:
   name   : "Erkan Gün"
   avatar : "/assets/images/bio-photo.jpg"
-  bio  : "Assistant Professor at Eurasia Istitute of Earth Sciences, Istanbul Technical University"
-  location: "Istanbul, Türkiye"
+  bio  : "Assistant Professor at Eurasia Istitute of Earth Sciences, TÜBİTAK 2232-A International Fellow for Outstanding Researchers"
+  location: "Istanbul Technical University
   links:
     - label: "e-mail"
       icon: "fas fa-fw fa-envelope-square"
